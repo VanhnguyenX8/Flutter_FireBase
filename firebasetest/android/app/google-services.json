@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449076228959",
+    "project_id": "tets-abd45",
+    "storage_bucket": "tets-abd45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449076228959:android:9fdf5009b3cfdab7d37cea",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449076228959-mk1gqmirf4gni4gjpumhvk401polv5dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgr5AX3g9_TbT2iIvp8BizhH8BDtZJ64o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449076228959-mk1gqmirf4gni4gjpumhvk401polv5dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
